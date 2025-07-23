@@ -1,7 +1,5 @@
 Full Stack Developer | .NET Core | React | AI Enthusiast
-https://img.shields.io/github/followers/ShafqatHaider?style=social
-https://img.shields.io/badge/LinkedIn-Connect-blue
-https://img.shields.io/badge/Portfolio-Visit-orange
+
 
 I'm a passionate Full Stack Developer with expertise in .NET Core, React, and AI integrations. I love building scalable web applications, automating workflows, and exploring cutting-edge technologies.
 
@@ -28,5 +26,5 @@ I'm a passionate Full Stack Developer with expertise in .NET Core, React, and AI
 
 📧 Email: shafqat.haider90@gmail.com
 🔗 LinkedIn: Shafqat Haider
-🌐 Portfolio: shafqat.dev
+🌐 Portfolio: [shafqat.dev](https://shafqathaider.github.io/portfolio_frontend/)
 
