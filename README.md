@@ -25,6 +25,6 @@ I'm a passionate Full Stack Developer with expertise in .NET Core, React, and AI
 
 
 📧 Email: shafqat.haider90@gmail.com
-🔗 LinkedIn: Shafqat Haider
+🔗 LinkedIn: https://www.linkedin.com/in/shafqat-haider
 🌐 Portfolio: [shafqat.dev](https://shafqathaider.github.io/portfolio_frontend/)
 
